@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Robonet manager",
-  description: "Application for managing robots' tokens",
+  title: "Robonet",
+  description: "Robonet manager",
 };
 
 export default function RootLayout({ children }) {
